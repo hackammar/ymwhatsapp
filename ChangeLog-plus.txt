@@ -1,37 +1,47 @@
-{"version_code":451184,"content":"
-<p>สอฯํห 9.10</p>
+{"version_code":451220,"content":"
+<p>ุชุญุฏูุซ 1.20</p>
 
-<li>วแสอฯํห แไำฮษ วแใวั฿ส 2.16.310</li>
-<li>ลึวÝษ Ýํำวส วแๆวสำ วศ วแฬฯํฯษ</li>
-<li>ลใ฿วไํษ สฺฯํแ วแีๆั Þศแ วัำวแๅว(วแัำใ - วแ฿สวศษ ลึวÝษ วแใแีÞวส ฺแ์ วแีๆั)</li>
-<li>(อีัํว) ลใ฿วไํษ วแวสีวแ ใ฿วแใษ ๅวสÝํษ ใไ ฯวฮแ วแๆวสำ วศ</li>
-<li>ลึวÝษ วแฮํวั 2.5.4 แสอฯํฯ ใฯษ สไศํๅ ใไ วีศอ ใสีแ ๆใไ าวั ศัๆÝวํแ฿</li>
-<li>ลึวÝษ วแฮํวั ัÞใ 5.3 แสอฯํฯ อฬใ วแใÞฺุ วแีๆสํ วแใัำแ แ 100 ใํÛว ศฯแว ใไ 16 ใํÛว</li>
-<li>ลึวÝษ วแฮํวั 2.2.2c แอำวศ วแๆÞส วแใไÞึํ แวฮั ูๅๆั </li>
-<li>ลึวÝษ วแฮํวั ัÞใ 2.4.14 แสÛํํั แๆไ วำใ วแใฬใๆฺษ ๆฯฺใ สÛํํั หํใ ิวิษ วฺวฯษ วแสๆฬํๅ ใไ วแÞำใ 2.4</li>
-<li>ลึวÝษ วแฮํวั ัÞใ 3.14 แสÛํํั แๆไ วํÞๆไษ วแÝํำวส Ýํ ิวิษ วแลิฺวัวส วแใไศหÞษ</li>
-<li>ลีแวอ ฺฯใ Ýสอ ำฬแ whatsapp.log</li>
-<li>ลึวÝษ วแสัฬใษ แแÛษ วแÝวัำํํษ</li>
-<li>ลีแวอ วแฺๆฯษ แแฮแÝํษ วแวÝสัวึํษ ฺไฯ วำสฮฯวใ ฮแÝํษ ใฮีีษ แ฿แ ใอวฯหษ (วแฮํวั 1.2.0)</li>
-<li>ลีแวอ ๆํฯฬส ลฮÝวม วแูๅๆั Ýํ ศฺึ วแวฬๅาษ</li>
-<li>สฺฯํแ วแสัฬใษ Ýํ วแแÛษ วแฺัศํษ</li>
-<li>ลีแวอวส วฮั์</li>
+<li> ูุฑุฌู ุงูููุฑ ุนูู ุชุญุฏูุซ ุจุงูุฃุณูู ูุงู ุงูุชุญุฏูุซ ุงูุญุงูู ุณููุชูู ุจุนุฏ ุนุดุฑุฉ ุงูุงู…  </li>
+<li> Update || Actualizar  </li>
+<li> ุชู… ุงุถุงูุฉ ู…ูุฒุฉ ุงููุต ุงูุชููุงุฆู </li>
+<li> ุงุถุงูุฉ ุชุฃุซูุฑุงุช ุซุฑู ุฏู ููุชููู ุจูู ุงูุดุงุดุฉ ุงูุฑุฆูุณูุฉ ู ุงูุญุงูุฉ ู ุงูู…ูุงูู…ุงุช </li>
+<li> ุงุตุจุญ ุจุฃู…ูุงูู ุงุถุงูุฉ 1025 ุดุฎุต ูู ูุงุฆู…ุฉ ุงูุฑุณุงูุฉ ุงูุฌู…ุงุนูุฉ (ุงูุจู ุณู) </li>
+<li> ุชู…ุฏูุฏ ุนู…ุฑ ุงููุงุชุณ ุงุจ ูุฌุนู ุนู…ุฑู ุณูุฉ
+ </li>
+<li> ุงูุชุญุฏูุซ ููุณุฎุฉ ุงูู…ุงุฑูุช 2.18.327</li>
+<li> ูู…ููู ุงุถุงูุฉ ู…ูุตูุงุช ูููุงุชุณุงุจ ู…ู ุชุทุจููุงุช ุงูู…ุงุฑูุช </li>
+<li> ููู…ููู ุงูุถุงู ุชุญู…ูู ุจุฑูุงู…ุฌ ุตูุน ู…ูุตูุงุช ู…ู ุงุถุงูุงุช ุนู…ุงุฑ ุงูุนูุงุถู ูุงุถุงูุชูุง ูููุงุชุณ ุงุจ </li>
+<li> ุฅุถุงูุฉ ุฎุทูุท ุฌุฏูุฏุฉ </li>
+<li> ุฅุถุงูุฉ ุงููููุงุช ุฌุฏูุฏุฉ </li>
+<li> ุฅุถุงูุฉ ุญุงูุงุช ุฌุฏูุฏุฉ </li>
+<li> ุฅุถุงูุฉ ุงูุฎูุงุฑ 6.21 ูุชุนุทูู ูุชุญ ุงูู…ุญุงุฏุซุงุช ุงูู…ุฎููุฉ ุจุนุฏ ุงูุถุบุท ุนูู ููู…ุฉ WhatsApp </li>
+<li> ูู…ููู ุชุฑุชูุจ ุนุฑุถ ุงูุฑุณุงุฆู ุญุณุจ ุงูุงูุฏู… ุงู ุงูุงุญุฏ ุจุนุฏ ุนุฑุถ ุงูุฑุณุงุฆู ุงูู…ุฑุณูุฉ ู…ู ูุจู ุงู ุดุฎุต ูู ุงูู…ุฌู…ูุนุฉ </li>
+<li> ูู…ููู ุชุซุจูุช ูฃู  ู…ุญุงุฏุซุฉ ุจุฏูุง ู…ู ูขูฅ ู…ุญุงุฏุซุฉ </li>
+<li> ุฅุถุงูุฉ ูุงูุฐุฉ ุชุฃููุฏ ุนูุฏ ุงูุงุชุตุงู ุจุดุฎุต ู…ุง ู…ู ุฏุงุฎู ุงูู…ุฌู…ูุนุฉ </li>
+<li> ุงุตูุงุญ ุงูุงููุงู ุงูุงุฌุจุงุฑู ุนูุฏ ุงุฎุชูุงุฑ ุงูุซุฑ ู…ู ุดุฎุต ูู ูุงุฆู…ุฉ ุงูุฑุฏ ุงูุชููุงุฆู ู ุงูุฑุณุงุฆู ุงูู…ุฌุฏููุฉ </li>
+<li> ุงุตูุงุญ ุฎูุงุฑ ุชุบููุฑ ุงููุบุฉ ูู ุงุตุฏุงุฑ ุงูุฑูู ูุงุนูู </li>
+<li> ุงุตูุงุญ ุธููุฑ ูุงูุฐุฉ ุนุฑุถ ุงูุฑุณุงุฆู ุงูู…ุฑุณูุฉ ุจุนุฏ ุงูุถุบุท ุนูู ุนุฑุถ ุงูู…ุฒูุฏ ูู ู…ุนููู…ุงุช ุงูู…ุฌู…ูุนุฉ </li>
+<li> ุฅุตูุงุญุงุช ุงุฎุฑู </li>
 
+<li> Please click Update below because the current update will end in 10 days</li>
+<li> Add and return the automatic text feature (arrow)</li>
+<li> Add 3D effects to navigate between the main screen, the case and calls</li>
+<li> Your image added 1025 people in the list of the letter (BC)</li>
+<li> The whatsapp was life extended and making his year old</li>
+<li> New Base Updated to 2.18.327</li>
+<li> Added Now You can Add Stickers From PlayStore to any Package </li>
+<li> Added New Fonts </li>
+<li> Added New Launcher Icons </li>
+<li> Add a new cases </li>
+<li> And you can also download the program making posters of anmods and add them to whatsapp </li>
+<li> Added Option to Disable click on Header for Hidden Chats (Mod 6.21) </li>
+<li> Added Now You can Sort Messages Sent By (Newest/Oldest) </li>
+<li> Added Confirmation Dialog when Call in Group Chat </li>
+<li> Increased Pin Chats from 25 to 30 </li>
+<li> Fixed Force Close when Select more than 2 contacts in Auto Reply/Message Scheduler </li>
+<li> Fixed Change App Language in Android Oreo and Pie </li>
+<li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile </li>
+<li> Many Other Fixes</li>
 
-<li> New Base Updated to 2.16.310</li>
-<li> (Exclusive) Elapsed Time instead of Last Seen on Main Screen (Mod 2.2.2c) (use 24hr time format) </li>
-<li> (Exclusive) Option to make normal call from inapp instead of WhatsApp call</li>
-<li> Added New Emojis (send Big Emojis) </li>
-<li> Added Doodle (Now add edit pics with emojis & text)</li>
-<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
-<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
-<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
-<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
-<li> Added Farsi Language Translation</li>
-<li> Fixed WhatsApp.Log</li>
-<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
-<li> Fixed GB Widget in some devices</li>
-<li> Other Fixes</li>
-
-","url":"www.azmods.co"
+","url":"https://www.smart5hone.com/2019/03/ymwhatsapp-v1.20.html"
 }
