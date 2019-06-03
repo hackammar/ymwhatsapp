@@ -1,47 +1,21 @@
-{"version_code":451220,"content":"
-<p>تحديث 1.20</p>
+{"version_code":451222,"content":"
+<p>قريباً تحديث 1.30</p>
+<p>Soon updated 1.30</p>
 
-<li> يرجى النقر على تحديث بالأسفل لان التحديث الحالي سينتهي بعد عشرة ايام  </li>
-<li> Update || Actualizar  </li>
-<li> تم اضافة ميزة النص التلقائي </li>
-<li> اضافة تأثيرات ثري دي للتنقل بين الشاشة الرئيسية و الحالة و المكالمات </li>
-<li> اصبح بأمكانك اضافة 1025 شخص في قائمة الرسالة الجماعية (البي سي) </li>
-<li> تمديد عمر الواتس اب وجعل عمره سنة
- </li>
-<li> التحديث لنسخة الماركت 2.18.327</li>
-<li> يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت </li>
-<li> ويمكنك ايضاً تحميل برنامج صنع ملصقات من اضافات عمار العواضي واضافتها للواتس اب </li>
-<li> إضافة خطوط جديدة </li>
-<li> إضافة ايقونات جديدة </li>
-<li> إضافة حالات جديدة </li>
-<li> إضافة الخيار 6.21 لتعطيل فتح المحادثات المخفية بعد الضغط على كلمة WhatsApp </li>
-<li> يمكنك ترتيب عرض الرسائل حسب الاقدم او الاحد بعد عرض الرسائل المرسلة من قبل اي شخص في المجموعة </li>
-<li> يمكنك تثبيت ٣٠ محادثة بدلا من ٢٥ محادثة </li>
-<li> إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة </li>
-<li> اصلاح الايقاف الاجباري عند اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة </li>
-<li> اصلاح خيار تغيير اللغة في اصدار اوريو واعلى </li>
-<li> اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة </li>
-<li> إصلاحات اخرى </li>
+<li>بالقريب العاجل تحديث واتساب ضد الحظر المؤقت</li>
+<li>LOWRESHOWS Update WhatsApp against the temporary ban</li>
 
-<li> Please click Update below because the current update will end in 10 days</li>
-<li> Add and return the automatic text feature (arrow)</li>
-<li> Add 3D effects to navigate between the main screen, the case and calls</li>
-<li> Your image added 1025 people in the list of the letter (BC)</li>
-<li> The whatsapp was life extended and making his year old</li>
-<li> New Base Updated to 2.18.327</li>
-<li> Added Now You can Add Stickers From PlayStore to any Package </li>
-<li> Added New Fonts </li>
-<li> Added New Launcher Icons </li>
-<li> Add a new cases </li>
-<li> And you can also download the program making posters of anmods and add them to whatsapp </li>
-<li> Added Option to Disable click on Header for Hidden Chats (Mod 6.21) </li>
-<li> Added Now You can Sort Messages Sent By (Newest/Oldest) </li>
-<li> Added Confirmation Dialog when Call in Group Chat </li>
-<li> Increased Pin Chats from 25 to 30 </li>
-<li> Fixed Force Close when Select more than 2 contacts in Auto Reply/Message Scheduler </li>
-<li> Fixed Change App Language in Android Oreo and Pie </li>
-<li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile </li>
-<li> Many Other Fixes</li>
+<li>ترقبوا التحديث القادم بأفضل المميزات الرائعة والخرافية</li>
 
-","url":"https://www.smart5hone.com/2019/03/ymwhatsapp-v1.20.html"
+<li>Stay tuned for the next update with the best and most wonderful features</li>
+
+<li> سيتم حل مشاكل الواتس اب جميعها وتحديث ينال اعجابكم</li>
+
+<li>The temporary blocking issue that will be experienced by a few users will be resolved</li>
+
+<li>سيجب على الجميع تحديث النسخة القادمة تحديث اجباري لكي تنحل جميع المشاكل ولكي لا يتم حظر ارقامكم مؤقتاً والاستفادة من المميزات والشكل الخرافي للتحديث الجديد للواتس اب</li>
+
+<li>Everyone will have to update the next version of a mandatory update in order to solve all the problems and in order not to be blocked your numbers temporarily and take advantage of the features and the legendary form of the new update for WhatsApp</li>
+
+","url":"https://www.alyemeni5.com/"
 }
