@@ -1,4 +1,4 @@
-{"version_code":451222,"content":"
+{"version_code":451220,"content":"
 <p>قريباً تحديث 1.30</p>
 <p>Soon updated 1.30</p>
 
