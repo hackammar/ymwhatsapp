@@ -1,21 +1,75 @@
-{"version_code":451220,"content":"
-<p>قريباً تحديث 1.30</p>
-<p>Soon updated 1.30</p>
+{"version_code":451222,"content":"
+<p>تحديث 1.30</p>
 
-<li>بالقريب العاجل تحديث واتساب ضد الحظر المؤقت</li>
-<li>LOWRESHOWS Update WhatsApp against the temporary ban</li>
+<li> تحديث اجباري لكي بايتم حظر رقمك</li>
+<li>[[[نسخة ضد الحظر المؤقت والحظر الدائم]]]</li>
+<li>Anti-Ban [[[Copy against the interim blocking and permanent banner]]]</li>
 
-<li>ترقبوا التحديث القادم بأفضل المميزات الرائعة والخرافية</li>
+<li>الاضافات :-</li>
 
-<li>Stay tuned for the next update with the best and most wonderful features</li>
+<li>[إضافة] الفيسات الجديدة</li>
+<li>[تغيير] شكل الواتساب وجعله مميز وجذاب</li>
+<li>[إضافة] ميزة اضهار صحين القراءة فقط بعد الرد </li>
+<li>[يمكنك] اضافة 1024 شخص لقائمة الرسائل الجماعية لتفعيل الميزة ادخل على اضافات عبدالله الاحزم</li>
+<li>[يمكنك] اضافة 1024 عضو للمجموعات لتفعيل الميزة ادخل على اضافات عبدالله الاحزم</li>
+<li> ويمكنك ايضاً تحميل برنامج صنع ملصقات من اضافات عبدالله الاحزم واضافتها للواتس اب </li>
+<li>[إضافة] ميزة تغيير خلفية او لون او مزج عدة اللوان الدردشة والحالة والمكالمات بشكل خرافي لتفعيل الميزة ادخل على اضافات عبدالله الاحزم</li>
+<li>[إضافة] ميزة تاثيرات التنقل بين الدردشات والحالة والمكالمة بدون مشاكل لتفعيل الميزة ادخل على اضافات عبدالله الاحزم</li>
+<li>[إضافة] ميزة تغيير خلفية او لون او مزج عدة اللوان القفل الخاص بالواتساب بشكل خرافي لتفعيل الميزة ادخل على اضافات عبدالله الاحزم</li>
+<li>[تحسين] ميزة تبديل 10 حسابات في واتساب مع تحسين شرح تبديل 10 حسابات لتفعيل الميزة ادخل على اضافات عبدالله الاحزم</li>
+<li>[إضافة] حالات مميزة بشكل خرافي بقسم اضافات عبدالله الاحزم</li>
+<li>[إضافة] ميزة تعدد الدردشات لكي تستطيع فتح كل دردشة على شكل كرت</li>
+<li>[إضافة] ميزة تغيير ستايل ايقونة الارفاق مازالت تحت التجربة</li>
+<li>[إضافة] ميزة النص التفجيري مازالت تحت التجربة</li>
+<li>[يمكنك] عمل مكالمة جماعية ما اعضاء المجموعات</li>
+<li>[يمكنك] اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
 
-<li> سيتم حل مشاكل الواتس اب جميعها وتحديث ينال اعجابكم</li>
+<li>الاصلاحات :-</li>
 
-<li>The temporary blocking issue that will be experienced by a few users will be resolved</li>
+<li>[اصلاح] مشكلة الانهيار بعد تغيير الثيمات</li>
+<li>[اصلاح] مشكلة تغيير الخطوط</li>
+<li>[اصلاح] مشكلة تأثيرات التنقل</li>
+<li>[اصلاح] مشكلة ظهور عداد الرسائل المخفية</li>
+<li>[اصلاح] لون الدفعات في شاشة المحادثة</li>
+<li>[اصلاح] الانهيار عند فتح محادثة في بعض الاصدارات</li>
+<li>[اصلاح] الانهيار عند الدخول للرسائل المميزة بنجمة</li>
+<li>[اصلاح] الانهيار عند محاولة البحث عن ثيمات</li>
+<li>[اصلاح] اضافة الملصقات من قوقل بلاي</li>
+<li>[إصلاحات] اخرى</li>
 
-<li>سيجب على الجميع تحديث النسخة القادمة تحديث اجباري لكي تنحل جميع المشاكل ولكي لا يتم حظر ارقامكم مؤقتاً والاستفادة من المميزات والشكل الخرافي للتحديث الجديد للواتس اب</li>
+<p>Update v1.30</p>
 
-<li>Everyone will have to update the next version of a mandatory update in order to solve all the problems and in order not to be blocked your numbers temporarily and take advantage of the features and the legendary form of the new update for WhatsApp</li>
+<li>Additions: -</li>
 
-","url":"https://www.alyemeni5.com/"
+<li>[Change] YMWhatsApp format and make it distinguished and attractive</li>
+<li>[Add] new instances</li>
+<li>[Feature] Disney Department Just Read after Reply</li>
+<li>[You may] You can add 1024 people for the collective messages list to activate the feature entered on the additions of ANMods {ANsetting}</li>
+<li>[You may] Add 1024 Member groups for Activity Features Enter the additions of ANMods {ANsetting}</li>
+<li>[Add] Display change feature, color or mix multiple tanker, chat, case and calls to the activation feature to enter the additions of ANMods {ANsetting}.</li>
+<li>[Add] Display change feature or color Mixing Links Language lock to your accounts to activate the feature entered on the additions of ANMods {ANsetting}</li>
+<li>[Add] Feature Features Movements between chats, Condition and Call without problems for activating the feature entered on the additions of ANMods {ANsetting}</li>
+<li>[Improvement] Adaptation feature 10 accounts in WhatsApps with Explanation Explanation 10 Excceptions to activate the feature entered on the additions of ANMods {ANsetting}</li>
+<li>[Add] Cases are preferred in the private section of the additions of ANMods {ANsetting}</li>
+<li>[Add] Feature Multiple Chats to Enable All Chat in Cat Shape</li>
+<li>[Add] Change Change String of the Conversation Whether the trial is not yet under the experience.</li>
+<li>[Add] The disparity feature is still under experiment</li>
+<li>[You may] A group calls what group members</li>
+<li>[You may] if you select a message sent in the group you can reply to their sender in a single index in your</li>
+
+<li>Fixes: -</li>
+
+<li>[fixed] problem of collapse after changing themes</li>
+<li>[fixed] problem change the fonts</li>
+<li>[fixed] Problems of navigation</li>
+<li>[fixed] problem hidden messages</li>
+<li>[fixed] Color Payments in Conversation Screen</li>
+<li>[fixed] Collapse when you open a conversation in some of the departments</li>
+<li>[fixed] Collapse when entering the characteristic messages</li>
+<li>[fixed] collapse when trying to search for themes</li>
+<li>[fixed] Added Stickers From Google Play Apps</li>
+<li>[fixed] Crash when search in themes</li>
+<li>Many More Fixes</li>
+
+","url":"https://www.alyemeni5.com/2019/06/ymwhatsapp-1.30.html"
 }
