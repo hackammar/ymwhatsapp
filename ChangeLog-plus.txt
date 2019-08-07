@@ -71,5 +71,5 @@
 <li>[fixed] Crash when search in themes</li>
 <li>Many More Fixes</li>
 
-","url":"https://www.alyemeni5.com/2019/06/ymwhatsapp-1.30.html"
+","url":"https://www.alyemeni5.com/2019/08/ymwhatsapp-v1.40.html"
 }
