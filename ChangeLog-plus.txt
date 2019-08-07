@@ -1,9 +1,9 @@
 {"version_code":451222,"content":"
 <p>تحديث 1.30</p>
 
-<li> تحديث اجباري لكي بايتم حظر رقمك</li>
-<li>[[[نسخة ضد الحظر المؤقت والحظر الدائم]]]</li>
-<li>Anti-Ban [[[Copy against the interim blocking and permanent banner]]]</li>
+<li>تم تمديد عمر الواتساب واصبح متاح لفترة كبيرة</li>
+
+
 
 <li>الاضافات :-</li>
 
